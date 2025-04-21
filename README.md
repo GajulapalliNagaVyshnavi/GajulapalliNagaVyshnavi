@@ -68,8 +68,4 @@
 I'm always open to interesting conversations around AI, research, and problem-solving!  
 Feel free to reach out or check out my repositories 👇
 
-<p align="center">
-  <a href="mailto:nvyshnavi36@gmail.com">📧 nvyshnavi36@gmail.com</a> •
-  <a href="https://www.linkedin.com/in/gajulapalli-naga-vyshnavi-646931242/">🔗 LinkedIn</a> •
-  <a href="https://github.com/GajulapalliNagaVyshnavi">💻 GitHub</a>
-</p>
+
